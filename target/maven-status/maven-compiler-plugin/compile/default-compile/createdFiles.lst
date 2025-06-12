@@ -1,0 +1,9 @@
+com\example\microservices_auth\Oauth2\CustomOAuth2UserService.class
+com\example\microservices_auth\securityConfig\SecurityConfiguration.class
+com\example\microservices_auth\Oauth2\CustomOAuth2SuccessHandler.class
+com\example\microservices_auth\service\MyUserDetailService.class
+com\example\microservices_auth\webtoken\JwtService.class
+com\example\microservices_auth\AuthApplication.class
+com\example\microservices_auth\controllers\RegistrationController.class
+com\example\microservices_auth\model\CustomUserDetails.class
+com\example\microservices_auth\controllers\LoginController.class
